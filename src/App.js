@@ -23,7 +23,6 @@ function App() {
           <h2>Contact</h2>
           <ul>
             <li>Gujarat, India</li>
-            <li><a href="tel:+61424162347">+61 424 162 347</a></li>
             <li><a href="mailto:niravgaglani6268@gmail.com">niravgaglani6268@gmail.com</a></li>
             <li><a href="https://linkedin.com/in/nirav-gaglani" target="_blank" rel="noreferrer">linkedin.com/in/nirav-gaglani</a></li>
             <li><a href="https://github.com/Nirav-Gaglani" target="_blank" rel="noreferrer">github.com/Nirav-Gaglani</a></li>
